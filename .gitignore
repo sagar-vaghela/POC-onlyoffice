@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/*.tgz
+/dist
+/storybook-static
 
 # testing
 /coverage

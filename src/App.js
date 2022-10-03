@@ -1,14 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-
+import DocumentEditor from './Storybook/DocumentEditor';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          POC-OnlyOffice
-        </p>
-      </header>
+    <div>
+          <DocumentEditor/>
     </div>
   );
 }
